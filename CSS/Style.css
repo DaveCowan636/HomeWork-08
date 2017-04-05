@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+.main-container {
+  border-style: groove;
+  border-width: 10px;
+  border-color: #000000;
+  padding: 10px;}
+
+body {background-color:#eeeeee;}
