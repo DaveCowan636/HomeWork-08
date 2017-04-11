@@ -1,10 +1,44 @@
+h1{
+  background color:#b9c170;
+  text-align: center;
+  font-family:<'Spirax', cursive;
+  margin: 25px 0px 15px;}
 
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+body{
+  font-family: 'Dancing Script', cursive;
+  background-color: #eeeeee;
+margin-left: 25px 0px 15px;
+font-size: 14pt;
+letter-spacing: normal;
+line-height:normal;
+}
+p.one{background-color:#3399ff}
+p.two{background-color:#f9698e}
+p.three{background-color:#eeeeee}
 
-.main-container {
-  border-style: groove;
-  border-width: 10px;
-  border-color: #000000;
-  padding: 10px;}
+.text-element::first-letter {
+    color:#0bf03d;
+}
 
-body {background-color:#eeeeee;}
+.hover-element:hover {
+    background-image:<img src=https://github.com/DaveCowan636/HomeWork-08/blob/master/Images/Ray%20Bradbury.jpg?raw=true>;
+    height: 75%;
+}
+.hover-element {
+    font-size: 1em;
+    background-color: #545454;
+    color: #c4c8c4;
+    padding: 1em;
+    text-align: right;
+}
+.hover-element:hover {
+    font-size: 4em;
+    background-image:;
+    color:#3399ff;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: justify;
+    letter-spacing: 0.2em;
+    padding: 0em;
+    height: 75%;
+}
